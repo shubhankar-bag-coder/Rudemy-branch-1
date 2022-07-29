@@ -9,21 +9,21 @@ Hello, welcome to my react App.
 
      npm install
 
-## Starts :fork_and_knife: Ends:
+# Starts Ends :fork_and_knife:
 
 3.Project:
 > The app is complete till Section 4 Module 62 React State & working with events from Udmey course
  
-# Name :fork_and_knife: Deatils:
+# Name Deatils :fork_and_knife:
 Udmey course: React - The Complete Guide (incl Hooks, React Router, Redux).
 
 [Course Link:](udemy.com/course/react-the-complete-guide-incl-redux)
 
 Name: Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!
 
-by Maximilian Schwarzmüller
+by :man: Maximilian Schwarzmüller
     
-last update: June 2022
+last update :date: June 2022
 
 
 ## Github Link :fork_and_knife::
