@@ -9,10 +9,10 @@ Hello, welcome to my react App.
 
      npm install
 
-## Starts ^ Ends
+## Starts & Ends:
 
 3.Project:
-> The app is complete till Section 4 Module 62 React State & working with events from Udmey course:
+> The app is complete till Section 4 Module 62 React State & working with events from Udmey course
  
 # Name ^ Deatils:
 Udmey course: React - The Complete Guide (incl Hooks, React Router, Redux).
@@ -26,6 +26,6 @@ by Maximilian Schwarzmüller
 last update: June 2022
 
 
-## Githubh Link:
+## Github Link:
 
 [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
