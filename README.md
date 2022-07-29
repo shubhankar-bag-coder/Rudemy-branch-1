@@ -12,18 +12,18 @@ Hello, welcome to my react App.
 ## Starts ^ Ends
 
 3.Project:
-    > The app is complete till Section 4 Module 62 React State & working with events from Udmey course:
+> The app is complete till Section 4 Module 62 React State & working with events from Udmey course:
  
 # Name ^ Deatils:
-    Udmey course: React - The Complete Guide (incl Hooks, React Router, Redux).
+Udmey course: React - The Complete Guide (incl Hooks, React Router, Redux).
 
-    [Course Link:](udemy.com/course/react-the-complete-guide-incl-redux)
+[Course Link:](udemy.com/course/react-the-complete-guide-incl-redux)
 
-    Name: Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!
+Name: Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!
 
-    by Maximilian Schwarzmüller
+by Maximilian Schwarzmüller
     
-    last update: June 2022
+last update: June 2022
 
 
 ## Githubh Link:
