@@ -1,4 +1,4 @@
-# Welome
+# Welome :coffee:
 
 Hello, welcome to my react App.
 
@@ -9,12 +9,12 @@ Hello, welcome to my react App.
 
      npm install
 
-## Starts & Ends:
+## Starts :fork_and_knife: Ends:
 
 3.Project:
 > The app is complete till Section 4 Module 62 React State & working with events from Udmey course
  
-# Name ^ Deatils:
+# Name :fork_and_knife: Deatils:
 Udmey course: React - The Complete Guide (incl Hooks, React Router, Redux).
 
 [Course Link:](udemy.com/course/react-the-complete-guide-incl-redux)
@@ -26,6 +26,6 @@ by Maximilian Schwarzmüller
 last update: June 2022
 
 
-## Github Link:
+## Github Link :fork_and_knife::
 
 [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
