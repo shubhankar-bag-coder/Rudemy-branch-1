@@ -7,7 +7,7 @@ import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Expenseitem=(props)=>{
-
+     
 let [title,setTitle]=useState(props.title)
 
 let ClickHandler=()=>
