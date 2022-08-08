@@ -28,7 +28,7 @@ return(
     <div className='expense-item__price' >Rs. {props.amount} /-</div> 
     </div>
 
-    <button className='m-2' onClick= {ClickHandler} >Change Title</button>
+    <button className='m-2' onClick={ ClickHandler } >Change Title</button>
 
 </div> 
 

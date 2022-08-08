@@ -9,7 +9,7 @@ import NewExpense from "./Components/NewExpense/NewExpense";
 
 
 
-var style=
+let style=
 { 
     backgroundColor:'rgb(28, 28, 28)',
     borderRadius:'12px',
